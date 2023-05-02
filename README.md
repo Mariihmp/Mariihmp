@@ -1,6 +1,5 @@
--  Hi, I’m @Mariihmp
--  I’m interested in problem solving ,math, astronomy, philosophy
--  I’m currently learning frontend web development
+-  Hi, I’m @Mariihmp AKA maryam hampaei
+-  I’m interested in problem solving ,math, astronomy, philosophy , technology , cyberpunk and transhumanism
 -  How to reach me via my email marhmpa@gmail.com
 
 <!---
