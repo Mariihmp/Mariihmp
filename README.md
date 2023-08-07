@@ -1,5 +1,5 @@
--  Hi, I’m @Mariihmp AKA maryam hampaei
--  I’m interested in problem solving ,math, astronomy, philosophy , technology , cyberpunk and transhumanism
+-  Hi, I’m @Mariihmp AKA maryam hampei
+-  I’m interested in problem-solving, math, astronomy, philosophy, technology, cyberpunk and transhumanism
 -  How to reach me via my email marhmpa@gmail.com
 
 <!---
