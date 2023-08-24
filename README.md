@@ -1,6 +1,6 @@
 
 
-<p><iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm"></a></p>
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm"></a>
 <h1 align="center">Hi 👋, I'm Maryam Hampaei</h1>
 <h3 align="center">I’m interested in problem-solving, math, astronomy, philosophy, technology, cyberpunk and transhumanism</h3>
 
