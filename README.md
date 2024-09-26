@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Maryam Hampaei</h1>
+
 <h3 align="center">I’m interested in problem-solving, math, astronomy, philosophy, technology, cyberpunk and transhumanism</h3>
 
 - 🔭 I’m currently working on **mastering different technologies and topics related to web development**
