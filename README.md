@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **new projects and sharing ideas**
 
-- 📫 How to reach me **marihmpa@gmail.com**
+- 📫 How to reach me **marhmpa@gmail.com**
 
 - projects ---->
 - https://mariihmp.github.io/DinDog.github.io/
