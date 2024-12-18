@@ -2,7 +2,7 @@
 
 <h3 align="center">I’m interested in problem-solving, math, astronomy, philosophy, technology, cyberpunk and transhumanism</h3>
 
-- 🌱 I’m currently doing ML stuff (deep neural netwrors,NLP,... ) **
+- 🌱 I’m currently doing ML stuff (NLP,text mining, DL... ) **
 
 - 👯 I’m looking to collaborate on **fun and chalenging projects**
 
