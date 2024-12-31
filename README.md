@@ -14,6 +14,7 @@
     <td align="center">
       <img src="https://github.com/user-attachments/assets/fb4288e2-dfd7-428b-aec7-ac4360670e03" alt="Engineering in Plain Sight" width="120"/>
       <br>
+      <br>
       <b>Engineering in Plain Sight</b>
     </td>
     <td align="center">
@@ -25,8 +26,8 @@
 </table>
 
 </div>
-
-- 
+<br>
+ 
 - 📫 How to reach me **marhmpa@gmail.com**
 - projects ---->
 - https://mariihmp.github.io/DinDog.github.io/
