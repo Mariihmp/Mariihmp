@@ -13,12 +13,14 @@
   <br>
   <b>Engineering in Plain Sight</b>
 </div>
+ &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing between the images -->
 
 <div>
   <img src="https://github.com/user-attachments/assets/99d693ca-3dd6-4e0c-80d3-3fc097f90ff1" alt="Why Machines Learn" width="120"/>
   <br>
   <b>Why Machines Learn</b>
 </div>
+ &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing between the images -->
 
 </div>
 - 
