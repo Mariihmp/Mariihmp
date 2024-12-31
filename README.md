@@ -1,15 +1,30 @@
 
+- 🌱 I’m currently doing ML stuff (NLP, text mining, DL...)  
+- 👯 I’m looking to collaborate on **fun and challenging projects**  
+- 🤝 I’m looking for help with **new projects and sharing ideas**  
 
-<h3 align="center">I’m interested in problem-solving, math, astronomy, philosophy, technology, cyberpunk and transhumanism</h3>
+### 📚 Books I'm Currently Reading  
 
-- 🌱 I’m currently doing ML stuff (NLP,text mining, DL... ) **
+<div align="center">
 
-- 👯 I’m looking to collaborate on **fun and chalenging projects**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fb4288e2-dfd7-428b-aec7-ac4360670e03" alt="Engineering in Plain Sight" width="120"/>
+      <br>
+      <b>Engineering in Plain Sight</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/99d693ca-3dd6-4e0c-80d3-3fc097f90ff1" alt="Why Machines Learn" width="120"/>
+      <br>
+      <b>Why Machines Learn</b>
+    </td>
+  </tr>
+</table>
 
-- 🤝 I’m looking for help with **new projects and sharing ideas**
-
+</div>
+- 
 - 📫 How to reach me **marhmpa@gmail.com**
-
 - projects ---->
 - https://mariihmp.github.io/DinDog.github.io/
 - https://py-weather-eiui.onrender.com
