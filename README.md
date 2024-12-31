@@ -7,20 +7,21 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fb4288e2-dfd7-428b-aec7-ac4360670e03" alt="Engineering in Plain Sight" width="120"/>
-      <br>
-      <b>Engineering in Plain Sight</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/99d693ca-3dd6-4e0c-80d3-3fc097f90ff1" alt="Why Machines Learn" width="120"/>
-      <br>
-      <b>Why Machines Learn</b>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div>
+  <img src="https://github.com/user-attachments/assets/fb4288e2-dfd7-428b-aec7-ac4360670e03" alt="Engineering in Plain Sight" width="120"/>
+  <br>
+  <b>Engineering in Plain Sight</b>
+</div>
+
+<div>
+  <img src="https://github.com/user-attachments/assets/99d693ca-3dd6-4e0c-80d3-3fc097f90ff1" alt="Why Machines Learn" width="120"/>
+  <br>
+  <b>Why Machines Learn</b>
+</div>
+
+</div>
 
 </div>
 - 
