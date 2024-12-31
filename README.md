@@ -3,16 +3,24 @@
 - 👯 I’m looking to collaborate on **fun and challenging projects**  
 - 🤝 I’m looking for help with **new projects and sharing ideas**  
 
-### 📚 Books I'm Currently Reading  
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/fb4288e2-dfd7-428b-aec7-ac4360670e03" alt="Engineering in Plain Sight" width="120">
+
+<h3 align="left">📚 Books I'm Currently Reading</h3>
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div>
+  <img src="https://github.com/user-attachments/assets/fb4288e2-dfd7-428b-aec7-ac4360670e03" alt="Engineering in Plain Sight" width="120"/>
+  <br>
   <b>Engineering in Plain Sight</b>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing between the images -->
-  
-  <img src="https://github.com/user-attachments/assets/99d693ca-3dd6-4e0c-80d3-3fc097f90ff1" alt="Why Machines Learn" width="120">
+</div>
+
+<div>
+  <img src="https://github.com/user-attachments/assets/99d693ca-3dd6-4e0c-80d3-3fc097f90ff1" alt="Why Machines Learn" width="120"/>
+  <br>
   <b>Why Machines Learn</b>
-</p>
+</div>
+
+</div>
 - 
 - 📫 How to reach me **marhmpa@gmail.com**
 - projects ---->
