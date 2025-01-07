@@ -1,7 +1,7 @@
 
 - 🌱 I’m currently doing ML stuff (NLP, text mining, DL...)  
 - 👯 I’m looking to collaborate on **fun and challenging projects**  
-- 🤝 I’m looking for help with **new projects and sharing ideas**  
+- 🤝 I like to contribute to open source
 
 
 <h3 align="left">📚 Books I'm Currently Reading</h3>
