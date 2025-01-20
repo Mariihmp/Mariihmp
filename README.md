@@ -28,7 +28,6 @@
 </div>
 <br>
  
-- 📫 How to reach me **marhmpa@gmail.com**
 - projects ---->
 - https://mariihmp.github.io/DinDog.github.io/
 - https://py-weather-eiui.onrender.com
