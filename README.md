@@ -4,7 +4,6 @@
 - 🤝 I like to contribute to open source
 
 
-<h3 align="left">📚 Books I'm Currently Reading</h3>
 
 
 - projects ---->
