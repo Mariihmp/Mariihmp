@@ -1,14 +1,11 @@
-- CE graduate. Ex-AISC fellow, working as an ML engineer / data scientist in fintech 
+- Ex-AISC fellow, working as an ML engineer / data scientist in fintech 
 - Lately spending a lot of time on AI safety concepts, the HuggingFace ecosystem, and the philosophy-AI intersection.
 
 
 
----
-
 - Looking to collaborate on fun challenging projects
 - Like to contribute to open source 
 
----
 
 
 ## Writing
