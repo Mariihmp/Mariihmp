@@ -11,4 +11,5 @@
 ## Writing
 
  [We Made a Map of the Doom Debate](https://www.lesswrong.com/posts/dZZD5Lviid2mALAZL/we-made-a-map-of-the-doom-debate) — LessWrong
- [Assumptions of Doom](https://lifeuniversesafety.com/doom-assumptions/index.html) — Life, Universe & Safety (AI Safety Camp)
+ 
+ [Assumptions of Doom tree](https://lifeuniversesafety.com/doom-assumptions/index.html) — Life, Universe & Safety (AI Safety Camp)
